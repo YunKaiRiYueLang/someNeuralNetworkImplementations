@@ -1,0 +1,2 @@
+# someNeuralNetworkImplementations
+Some neural network implementations.学习过程中自己用各种方式实现的神经网络
